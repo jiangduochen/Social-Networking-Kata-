@@ -1,0 +1,10 @@
+jiangduochen\command\FollowCommandTest.class
+jiangduochen\command\parser\FollowCommandParserTest.class
+jiangduochen\command\parser\PostCommandParserTest.class
+jiangduochen\command\parser\ReadCommandParserTest.class
+jiangduochen\command\parser\WallCommandParserTest.class
+jiangduochen\user\UserTest.class
+jiangduochen\command\PostCommandTest.class
+jiangduochen\command\ReadCommandTest.class
+jiangduochen\command\WallCommandTest.class
+jiangduochen\console\MessageFormatterTest.class
