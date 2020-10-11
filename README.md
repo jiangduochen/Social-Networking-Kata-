@@ -55,3 +55,5 @@ Then
 ```
 java -jar target/social-networking-kata-0.0.1-SNAPSHOT.jar
 ```
+Reference
+Federico De Faveri 
